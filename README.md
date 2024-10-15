@@ -1,3 +1,5 @@
+# EQ_nerd
+
 Premium 31-Band Equalizer with Real-Time Visualizer
 Overview
 The Premium 31-Band Equalizer is an advanced audio equalizer designed for Linux systems with PulseAudio and GStreamer. It provides fine-grained control over 31 distinct frequency bands, allowing users to tailor audio output for various use cases such as music production, audio enhancement, or personal listening preferences.
@@ -158,4 +160,4 @@ Real-Time Visualizer Not Updating:
 
 Ensure pyqtgraph is installed (pip install pyqtgraph).
 If the visualizer lags, try adjusting the update interval in the AudioProcessingThread.
-# EQ_nerd
+
